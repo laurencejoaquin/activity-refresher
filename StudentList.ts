@@ -120,4 +120,6 @@ export class StudentList {
     totalStudents(){
         return this.students.length
     }
+    //Sir doble po nasubmit namin sa group akin po pati kay Jasper Silongan same group lang po kami
+    //Kala ko po kasi lahat kailangan mag submit sa github :))
 }
